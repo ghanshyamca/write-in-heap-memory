@@ -1,0 +1,6 @@
+#!/bin/bash
+clear
+echo Compiling ur code...
+javac Demo.java
+echo Press ENTER key to exit....
+read
